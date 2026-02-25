@@ -1,0 +1,19 @@
+# robots.txt for Nativis GP - Premium Spirits & Liqueurs
+# https://nativisgp.com
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any exist in future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow crawling of images
+User-agent: Googlebot-Image
+Allow: /imgs/
+
+# Sitemap location
+Sitemap: https://nativisgp.com/sitemap.xml
+
+# Crawl delay for considerate crawling
+Crawl-delay: 1

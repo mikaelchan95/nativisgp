@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://nativisgp.com/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nativisgp.com/imgs/homepage%20hero.jpg</image:loc>
+      <image:title>Nativis Premium Spirits &amp; Liqueurs</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/ln9ipPv.png</image:loc>
+      <image:title>Eldoria Premium Elderflower Liqueur</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/Tv4BpiT.png</image:loc>
+      <image:title>Lumina Premium Triple-Sec Liqueur</image:title>
+    </image:image>
+  </url>
+
+  <!-- People/Leadership Page -->
+  <url>
+    <loc>https://nativisgp.com/people</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Careers Page -->
+  <url>
+    <loc>https://nativisgp.com/careers</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Where to Buy Page -->
+  <url>
+    <loc>https://nativisgp.com/where-to-buy</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Privacy Policy -->
+  <url>
+    <loc>https://nativisgp.com/privacy-policy</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://nativisgp.com/terms-of-service</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Responsible Drinking -->
+  <url>
+    <loc>https://nativisgp.com/responsible-drinking</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Accessibility -->
+  <url>
+    <loc>https://nativisgp.com/accessibility</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
